@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Pandanon island</key>
+	<dict>
+		<key>description</key>
+		<string>パンダノン島  (pandanon island) セブに数あるアイランドホッピングで訪れる島のビーチでも、一番ビーチが美しいと評判の島。 
+
+セブを訪れる人の定番アクティビティーの一つでもあるアイランドホッピング。アイランドホッピングで訪れる島では距離が遠いのですが、人気の高い島です。白砂に寝転がってなにもしないのもよし、ビーチに設けられている椰子の葉っぱと竹でできたハットでバーベキューをする人も。</string>
+		<key>image</key>
+		<string>seaList1.jpeg</string>
+		<key>latitude</key>
+		<string>10.180551</string>
+		<key>longitude</key>
+		<string>124.087880</string>
+	</dict>
+	<key>Sugar Beach</key>
+	<dict>
+		<key>description</key>
+		<string>シュガービーチ (Sugar Beach)きめ細かな白砂のビーチは、まるで砂糖のようになめらかで多くの旅行客に人気です。 
+
+セブ北部のバンタヤンアイランドにある、白砂で有名なビーチ。遠浅のためにあまり泳ぐのには向かないものの、透明度のいいクリアーな海と白い砂浜のコントラストは、非常にきれいです。ビーチから海を眺めているだけで幸せになれる海です。</string>
+		<key>image</key>
+		<string>seaList2.jpeg</string>
+		<key>latitude</key>
+		<string>11.151379</string>
+		<key>longitude</key>
+		<string>123.802607</string>
+	</dict>
+	<key>Moalboal</key>
+	<dict>
+		<key>description</key>
+		<string>モアルボアル リゾート (moalboal)観光客にも有名なモアルボアールですが、このホワイトビーチは中心地から離れているので、人影もあまりなく静か。 
+
+モアルボアールの中心地であるパナガサマビーチは、多くのヨーロピアンツーリストで賑わっていますが、このホワイトビーチは人影もまばらでのんびりビーチで過ごすには最適の場所です。ダイバーにも有名なモアルボアールですが、こんなきれいなビーチでノンビルするのも悪くないです。</string>
+		<key>image</key>
+		<string>seaList3.jpeg</string>
+		<key>latitude</key>
+		<string>9.948627</string>
+		<key>longitude</key>
+		<string>123.365926</string>
+	</dict>
+	<key>Nalusuan Island</key>
+	<dict>
+		<key>description</key>
+		<string>ナルスアン島(Nalusuan Island)ナルスアン島の代名詞とも言える長い桟橋も南部のサンクチュアリに掛けられています。
+東西に掛けられた桟橋の上から眺める青い海は絶景で、ナルスアン島ならではの醍醐味と言えるでしょう。
+
+桟橋を挟んだ東西で雰囲気ががらりと変わるのもナルスアン島の特徴です。
+西側は砂地を中心とした海が広がり、ブルースポットマスクレイ（エイの仲間）の群れと出会えます。
+ブルースポットマスクレイは愛嬌のある顔立ちで現地のマスコット的な熱帯魚で、ダイバー達からも人気を集めています。
+対して東側は、色鮮やかな珊瑚に囲まれており、熱帯魚達の楽園になっています。
+王道とも呼べるいかにも南国らしいビーチになっているため、ダイビング初心者から上級者まで幅広く楽しめるポイントです。</string>
+		<key>image</key>
+		<string>seaList4.jpeg</string>
+		<key>latitude</key>
+		<string>10.190617</string>
+		<key>longitude</key>
+		<string>124.000614</string>
+	</dict>
+	<key>Malapascua Island</key>
+	<dict>
+		<key>description</key>
+		<string>マラパスクア島 (Malapascua Island)人影の少ないビーチは、時折見かけるダイバーとダイブボートがたまに止まる程度と、独占状態のようです。 2013年の超大型台風で大きな被害を受けたマラパスクワですが、今では復興も進みその綺麗なビーチは多くの人の心を和ませてくれます。フィリピンでも人気のビーチボラカイを小さくしたようなビーチと評判で、次のブームはこのビーチかと言われる程です。多くのダイバーがここで見れるニタリ鮫を見に訪れますが、ビーチには来ませんので安心を。</string>
+		<key>image</key>
+		<string>seaList5.jpeg</string>
+		<key>latitude</key>
+		<string>11.337359</string>
+		<key>longitude</key>
+		<string>124.115737</string>
+	</dict>
+</dict>
+</plist>

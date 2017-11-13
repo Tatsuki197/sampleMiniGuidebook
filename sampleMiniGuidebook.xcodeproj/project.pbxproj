@@ -14,6 +14,13 @@
 		17810B7F1FB404440095A38A /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 17810B7D1FB404440095A38A /* LaunchScreen.storyboard */; };
 		17810B8A1FB404440095A38A /* sampleMiniGuidebookTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 17810B891FB404440095A38A /* sampleMiniGuidebookTests.swift */; };
 		17810B951FB404440095A38A /* sampleMiniGuidebookUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 17810B941FB404440095A38A /* sampleMiniGuidebookUITests.swift */; };
+		17810BA31FB54AB50095A38A /* areaList.plist in Resources */ = {isa = PBXBuildFile; fileRef = 17810BA21FB54AB50095A38A /* areaList.plist */; };
+		17810BA51FB5555A0095A38A /* DetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 17810BA41FB5555A0095A38A /* DetailViewController.swift */; };
+		17810BB71FB93BCB0095A38A /* seaList1.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 17810BB21FB93BCA0095A38A /* seaList1.jpeg */; };
+		17810BB81FB93BCB0095A38A /* seaList2.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 17810BB31FB93BCA0095A38A /* seaList2.jpeg */; };
+		17810BB91FB93BCB0095A38A /* seaList3.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 17810BB41FB93BCA0095A38A /* seaList3.jpeg */; };
+		17810BBA1FB93BCB0095A38A /* seaList4.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 17810BB51FB93BCA0095A38A /* seaList4.jpeg */; };
+		17810BBB1FB93BCB0095A38A /* seaList5.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 17810BB61FB93BCA0095A38A /* seaList5.jpeg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +54,13 @@
 		17810B901FB404440095A38A /* sampleMiniGuidebookUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = sampleMiniGuidebookUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		17810B941FB404440095A38A /* sampleMiniGuidebookUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = sampleMiniGuidebookUITests.swift; sourceTree = "<group>"; };
 		17810B961FB404440095A38A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		17810BA21FB54AB50095A38A /* areaList.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = areaList.plist; sourceTree = "<group>"; };
+		17810BA41FB5555A0095A38A /* DetailViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailViewController.swift; sourceTree = "<group>"; };
+		17810BB21FB93BCA0095A38A /* seaList1.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = seaList1.jpeg; sourceTree = "<group>"; };
+		17810BB31FB93BCA0095A38A /* seaList2.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = seaList2.jpeg; sourceTree = "<group>"; };
+		17810BB41FB93BCA0095A38A /* seaList3.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = seaList3.jpeg; sourceTree = "<group>"; };
+		17810BB51FB93BCA0095A38A /* seaList4.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = seaList4.jpeg; sourceTree = "<group>"; };
+		17810BB61FB93BCA0095A38A /* seaList5.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = seaList5.jpeg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -97,12 +111,15 @@
 		17810B731FB404440095A38A /* sampleMiniGuidebook */ = {
 			isa = PBXGroup;
 			children = (
+				17810BB11FB93BCA0095A38A /* seaList */,
 				17810B741FB404440095A38A /* AppDelegate.swift */,
 				17810B761FB404440095A38A /* ViewController.swift */,
+				17810BA41FB5555A0095A38A /* DetailViewController.swift */,
 				17810B781FB404440095A38A /* Main.storyboard */,
 				17810B7B1FB404440095A38A /* Assets.xcassets */,
 				17810B7D1FB404440095A38A /* LaunchScreen.storyboard */,
 				17810B801FB404440095A38A /* Info.plist */,
+				17810BA21FB54AB50095A38A /* areaList.plist */,
 			);
 			path = sampleMiniGuidebook;
 			sourceTree = "<group>";
@@ -124,6 +141,18 @@
 			);
 			path = sampleMiniGuidebookUITests;
 			sourceTree = "<group>";
+		};
+		17810BB11FB93BCA0095A38A /* seaList */ = {
+			isa = PBXGroup;
+			children = (
+				17810BB21FB93BCA0095A38A /* seaList1.jpeg */,
+				17810BB31FB93BCA0095A38A /* seaList2.jpeg */,
+				17810BB41FB93BCA0095A38A /* seaList3.jpeg */,
+				17810BB51FB93BCA0095A38A /* seaList4.jpeg */,
+				17810BB61FB93BCA0095A38A /* seaList5.jpeg */,
+			);
+			path = seaList;
+			sourceTree = SOURCE_ROOT;
 		};
 /* End PBXGroup section */
 
@@ -232,7 +261,13 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				17810BB71FB93BCB0095A38A /* seaList1.jpeg in Resources */,
 				17810B7F1FB404440095A38A /* LaunchScreen.storyboard in Resources */,
+				17810BBB1FB93BCB0095A38A /* seaList5.jpeg in Resources */,
+				17810BBA1FB93BCB0095A38A /* seaList4.jpeg in Resources */,
+				17810BB91FB93BCB0095A38A /* seaList3.jpeg in Resources */,
+				17810BB81FB93BCB0095A38A /* seaList2.jpeg in Resources */,
+				17810BA31FB54AB50095A38A /* areaList.plist in Resources */,
 				17810B7C1FB404440095A38A /* Assets.xcassets in Resources */,
 				17810B7A1FB404440095A38A /* Main.storyboard in Resources */,
 			);
@@ -259,6 +294,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				17810BA51FB5555A0095A38A /* DetailViewController.swift in Sources */,
 				17810B771FB404440095A38A /* ViewController.swift in Sources */,
 				17810B751FB404440095A38A /* AppDelegate.swift in Sources */,
 			);
